@@ -135,8 +135,8 @@ h3,
 	background: #fff;
 	padding: 30px;
 	margin: 0 0 40px 0;
-	width: 100%;
 	width: 650px;
+	height: auto;
 	float: left;
 	border: 1px solid #ddd;
 }
@@ -173,7 +173,7 @@ h3,
 }
 .auth-image {
 	width: 200px;
-	height: auto;
+	height: 283px;
 	margin-top: 10px;
 	float: left;
 	margin-right: 25px;
