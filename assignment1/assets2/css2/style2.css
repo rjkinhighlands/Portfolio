@@ -213,3 +213,9 @@ input[type=submit] {
 	padding: 10px 30px;
 	cursor: pointer;
 }
+@media screen and (max-width: 980px) {	
+}
+@media screen and (max-width: 768px) {
+}
+@media screen and (max-width: 640px) {	
+}
